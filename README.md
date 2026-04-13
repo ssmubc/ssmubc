@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi there 👋<br>Nice to meet you, I'm Sharon!<br><br>I build GenAI products and scalable backend systems. I am a UBC Computer Science student graduating May 2026, AWS Certified Solutions Architect Associate, with 16 months of internship experience at AWS Cloud Innovation Center and Zymeworks.<br><br>🔭 Recent work: GenAI applications with RAG, Strands Agents SDK, multi-agent systems, LLM evaluation, Model Context Protocol (MCP) integrations, real-time speech workflows, and Kubernetes pipelines at scale.<br>🌱 Currently learning: LLM evaluation frameworks, cost and latency optimization, agent orchestration<br>💬 Ask me about: RAG, agents, AWS, Kubernetes, FastAPI, Python<br>🤝 Open to: New grad roles starting June 2026 (GenAI, ML engineering, AI platform, backend)
 
+My portfolio: https://ssmubc.github.io/
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharon-marfatia/) 
