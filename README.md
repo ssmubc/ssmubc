@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there 👋<br>Nice to meet you, I'm Sharon!<br><br>I build GenAI products and scalable backend systems. I am a UBC Computer Science graduate, AWS Certified Solutions Architect Associate, with 2+ years of experience at AWS Cloud Innovation Center, Zymeworks, and UBC Climate-Friendly Food Systems.<br><br>🔭 Recent work: GenAI applications with RAG, Strands Agents SDK, multi-agent systems, LLM evaluation, Model Context Protocol (MCP) integrations, real-time speech workflows, and Kubernetes pipelines at scale.<br>🌱 Currently learning: LLM evaluation frameworks, cost and latency optimization, agent orchestration<br>💬 Ask me about: RAG, agents, AWS, Kubernetes, FastAPI, Python<br>🤝 Open to: New grad/Entry level roles in GenAI, ML engineering, FDE, AI platform, and backend. Available immediately. TN eligible for US roles.
+Hi there 👋<br>Nice to meet you, I'm Sharon!<br><br>I build GenAI products and scalable backend systems. I am a UBC Computer Science graduate, AWS Certified Solutions Architect Associate, with 2+ years of experience at AWS Cloud Innovation Center, Zymeworks, and UBC Climate-Friendly Food Systems.<br><br>🔭 Recent work: GenAI applications with RAG, Strands Agents SDK, multi-agent systems, LLM evaluation, Model Context Protocol (MCP) integrations, real-time speech workflows, and Kubernetes pipelines at scale.<br>🌱 Currently learning: LLM evaluation frameworks, cost and latency optimization, agent orchestration<br>💬 Ask me about: RAG, agents, AWS, Kubernetes, FastAPI, Python<br>🤝 Open to: New grad/Entry level roles in GenAI, ML engineering, FDE, AI platform, and backend. 
+
+Available immediately. TN eligible for US roles.
 
 My portfolio: https://ssmubc.github.io/
 
