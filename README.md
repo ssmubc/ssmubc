@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there 👋<br>I am Sharon, a software engineer building cloud deployment tools for global engineering teams.<br><br>I enjoy building tools that people adopt and use in their everyday work. Previously, that meant automating repetitive tasks for scientists at Zymeworks and creating AI applications for quantum research and pharmacy training at UBC’s Cloud Innovation Centre.<br><br>
-🔧 Cloud & automation: Terraform, Jenkins, Docker, AWS, Python<br>
 🤖 AI development: MCP integrations, multi-agent systems, RAG, real-time voice, and LLM evaluation<br>
+🔧 Cloud & automation: Terraform, Jenkins, Docker, AWS, Python<br>
 🎓 Background: UBC Computer Science graduate · AWS Certified Solutions Architect – Associate<br>
 🤝 Interested in: Software engineering opportunities in cloud platforms, developer tooling, and applied AI<br>
 
